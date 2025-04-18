@@ -1,8 +1,10 @@
-![github-snake](https://github.com/user-attachments/assets/c26abece-16bd-4c97-aca4-6d9c87e515be)Frontend разработчик
+Frontend разработчик
 --------------------
 
 Я начинающий frontend разработчик с опытом обучения около 7-8 месяцев. За это время я освоил основы HTML, CSS и JavaScript, Git, GitHub, а также познакомился с современными фреймворками, такими как React. Постоянно стремлюсь к саморазвитию и изучению новых технологий, чтобы улучшать свои навыки и расширять свои знания в области веб-разработки.
 
+
+![github-snake](https://github.com/user-attachments/assets/c26abece-16bd-4c97-aca4-6d9c87e515be)
 ![Uploading g<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
     <style>@keyframes c0{4.15%{fill:var(--c1)}4.17%,to{fill:var(--ce)}}@keyframes
         c1{5.42%{fill:var(--c1)}5.44%,to{fill:var(--ce)}}@keyframes
