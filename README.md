@@ -3,7 +3,7 @@ Frontend разработчик
 
 Я начинающий frontend разработчик с опытом обучения около 7-8 месяцев. За это время я освоил основы HTML, CSS и JavaScript, Git, GitHub, а также познакомился с современными фреймворками, такими как React. Постоянно стремлюсь к саморазвитию и изучению новых технологий, чтобы улучшать свои навыки и расширять свои знания в области веб-разработки.
 
-### Skills
+### Технологии
 
 
 <p align="center">
@@ -11,7 +11,7 @@ Frontend разработчик
 </p>
 
 
-### Socials
+### Социальные сети
 
 <p align="left"> <a href="https://discord.com/users/fjj096" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/kss077" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
